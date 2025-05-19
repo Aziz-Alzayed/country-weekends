@@ -1,0 +1,36 @@
+{
+  "name": "country-weekends",
+  "version": "1.0.0",
+  "description": "Check if a date is a weekend based on country",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": {
+    "name": "Aziz Alzayed",
+    "email": "aziz.alzayed.tech@gmail.com",
+    "url": "https://www.aziz-tech.ne"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aziz-Alzayed/country-weekends.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aziz-Alzayed/country-weekends/issues"
+  },
+  "homepage": "https://github.com/Aziz-Alzayed/country-weekends#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.15.19",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.4",
+    "typescript": "^5.8.3"
+  }
+}
