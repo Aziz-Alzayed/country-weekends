@@ -1,8 +1,8 @@
 # Country Weekends 🌍📅
 
 [![npm version](https://img.shields.io/npm/v/country-weekends.svg)](https://www.npmjs.com/package/country-weekends)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/yourusername/country-weekends/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/country-weekends/actions)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![CI Status](https://github.com/Aziz-Alzayed/country-weekends/actions/workflows/publish.yml/badge.svg)](https://github.com/Aziz-Alzayed/country-weekends/actions)
 
 A lightweight TypeScript library providing weekend days for every country, including regional variations.
 
@@ -78,9 +78,9 @@ Found missing data or incorrect weekends?
 
 ## Support & Contact
 
-🌐 [Official Website](aziz.alzayed.tech@gmail.com)
+🌐 [Official Website](https://www.aziz-tech.net)
 
-✉️ [Email Support](aziz.alzayed.tech@gmail.com)
+✉️ [Email Support](mailto:aziz.alzayed.tech@gmail.com)
 
 🐛 [Issue Tracker](https://github.com/yourusername/country-weekends/issues)
 

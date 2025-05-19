@@ -7,7 +7,7 @@
   "author": {
     "name": "Aziz Alzayed",
     "email": "aziz.alzayed.tech@gmail.com",
-    "url": "https://www.aziz-tech.ne"
+    "url": "https://www.aziz-tech.net"
   },
   "directories": {
     "test": "test"
@@ -20,7 +20,14 @@
     "type": "git",
     "url": "git+https://github.com/Aziz-Alzayed/country-weekends.git"
   },
-  "keywords": [],
+  "keywords": [
+    "weekend",
+    "country",
+    "holidays",
+    "timezone",
+    "typescript",
+    "calendar"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aziz-Alzayed/country-weekends/issues"
