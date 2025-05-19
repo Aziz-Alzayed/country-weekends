@@ -1,6 +1,6 @@
 {
   "name": "country-weekends",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a date is a weekend based on country",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
