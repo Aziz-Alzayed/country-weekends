@@ -1,4 +1,4 @@
-import { CountryCode, WeekendDays, CountryWeekendMap } from './types';
+import { CountryCode, WeekendDays } from './types';
 import { countryWeekends, DEFAULT_WEEKEND } from './data';
 
 export function getWeekendDays(countryCode: CountryCode): WeekendDays {
