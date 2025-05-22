@@ -1,13 +1,15 @@
 {
   "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "dist",
     "target": "ES6",
     "module": "CommonJS",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "outDir": "dist",
-    "rootDir": ".",
+    "rootDir": "src", 
     "strict": true,
     "types": ["jest", "node"]
   },
-  "include": ["src", "test"]
+  "include": ["src"],
 }

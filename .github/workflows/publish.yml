@@ -18,7 +18,16 @@ jobs:
           registry-url: https://registry.npmjs.org/
 
       - run: npm install
+      
+      - name: Run tests
+        run: npm run test
+
       - run: npm run build
+
+      - name: Check build output
+        run: |
+          test -f dist/index.ts
+          test -f dist/index.d.ts
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
