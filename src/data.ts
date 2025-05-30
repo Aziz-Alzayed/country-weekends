@@ -7,7 +7,7 @@ export const countryWeekends: CountryWeekendMap = {
   BH: [5, 6], // Bahrain
   DJ: [5, 6], // Djibouti
   DZ: [5, 6], // Algeria (Thursday-Friday)
-  EG: [5, 6], // Egypt
+  EG: [5], // Egypt
   IQ: [5, 6], // Iraq
   JO: [5, 6], // Jordan
   KW: [5, 6], // Kuwait
